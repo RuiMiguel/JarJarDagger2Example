@@ -1,6 +1,6 @@
 package ox.com.daggertest;
 
-import javax.inject.Inject;
+import orchextra.javax.inject.Inject;
 
 public class Hello {
 
